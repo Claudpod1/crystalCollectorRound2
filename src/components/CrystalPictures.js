@@ -1,7 +1,7 @@
 import React from "react";
 
 
-function CrystalPics() {
+function CrystalPics(props) {
  return(
      <div className ="card">
          <img className="card-img-top"  

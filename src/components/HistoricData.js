@@ -9,4 +9,4 @@ function Data (props){
         </div>
     ) 
 }
-export default Data ;
+export default Data;
