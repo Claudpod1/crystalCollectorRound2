@@ -5,8 +5,7 @@ import Header from "./components/Header";
 import Data from "./components/HistoricData";
 import Wrapper from "./components/Wrapper";
 import CrystalPics from "./components/CrystalPictures";
-import './App.css';
-
+import "./App.css"
 
 class App extends Component {
     state = {
@@ -22,10 +21,6 @@ class App extends Component {
     // function that will set up our target and values at the same time 
     // need a click-event that will add to the score 
     // function to check did you win or did you lose 
-
-    
-
-
 
     render() {
         return (
